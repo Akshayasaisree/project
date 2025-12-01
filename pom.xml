@@ -6,7 +6,7 @@
 
   <groupId>KMIT</groupId>
   <artifactId>ORS</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>ORS Maven Webapp</name>
