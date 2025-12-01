@@ -7,7 +7,7 @@
   <groupId>KMIT</groupId>
   <artifactId>ORS</artifactId>
   <version>SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>ORS Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
